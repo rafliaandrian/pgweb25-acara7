@@ -1,0 +1,3 @@
+<?php
+echo "Halo semua, kenalin aku Rafli Andrian Hafani, Fakultas Kedokteran, Prodi Kedokteran Sastra Mesin. Aku punya hobi membaca Kamus Besar Bahasa Mesin"
+?>

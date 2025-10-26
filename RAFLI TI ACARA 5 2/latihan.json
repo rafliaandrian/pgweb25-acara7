@@ -1,0 +1,132 @@
+[
+    {
+      "nama": "Rafli Andrian",
+      "nim": "536100",
+      "semester": 2,
+      "hobi": [
+        "Belajar",
+        "Mengaji"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "IDS",
+        "praktikum2": "Teknologi Informasi"
+      }
+    },
+    {
+      "nama": "Ais Khairiyansyah",
+      "nim": "536200",
+      "semester": 2,
+      "hobi": [
+        "Tenis Meja",
+        "Medis"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "IDS",
+        "praktikum2": "SIGMD"
+      }
+    },
+    {
+      "nama": "Manda Aulia",
+      "nim": "53456",
+      "semester": 2,
+      "hobi": [
+        "Panahan",
+        "Bernyanyi"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Pemrograman",
+        "praktikum2": "SIGMD"
+      }
+    },
+    {
+      "nama": "Ratih Esti",
+      "nim": "531789",
+      "semester": 2,
+      "hobi": [
+        "Basket",
+        "Jajan"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Pemrograman",
+        "praktikum2": "Basis Data"
+      }
+    },
+    {
+      "nama": "Fifi Laeli",
+      "nim": "531290",
+      "semester": 2,
+      "hobi": [
+        "Jogging",
+        "Mendengarkan Musik"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "IDS",
+        "praktikum2": "Kartografi"
+      }
+    },
+    {
+      "nama": "Destrin Dian",
+      "nim": "567812",
+      "semester": 2,
+      "hobi": [
+        "Gym",
+        "Bernyanyi"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Pemrograman",
+        "praktikum2": "IDS"
+      }
+    },
+    {
+      "nama": "Athila",
+      "nim": "535789",
+      "semester": 2,
+      "hobi": [
+        "Nonton Konser",
+        "Velocity"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Kartografi",
+        "praktikum2": "SIGMD"
+      }
+    },
+    {
+      "nama": "Faiz Rizqi",
+      "nim": "534611",
+      "semester": 2,
+      "hobi": [
+        "Badminton",
+        "Jogging"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Pemrograman",
+        "praktikum2": "Teknologi Informasi"
+      }
+    },
+    {
+      "nama": "Elang Gading",
+      "nim": "567812",
+      "semester": 2,
+      "hobi": [
+        "Mendaki Gunung",
+        "Membaca"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Kartografi",
+        "praktikum2": "Basis Data"
+      }
+    },
+    {
+      "nama": "Raka Derama",
+      "nim": "530982",
+      "semester": 2,
+      "hobi": [
+        "Riding",
+        "Nonton Konser"
+      ],
+      "praktikum_favorit": {
+        "praktikum1": "Pemrograman",
+        "praktikum2": "ICPJ"
+  }
+}
+  ]
