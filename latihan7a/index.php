@@ -7,7 +7,7 @@
 
 <h2>1. Perintah Dasar</h2>
 <?php
-echo "Hallo semuanya!";
+echo "Hallo semuanya!"; //
 ?>
 
 <h2>2. Komentar</h2>
@@ -196,3 +196,8 @@ Umur: <input type="text" name="umur" />
 
 </body>
 </html>
+
+
+
+
+
